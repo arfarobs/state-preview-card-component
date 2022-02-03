@@ -13,7 +13,7 @@ body {
     align-items: center;
 }
 
-section {
+main {
     display: flex;
     background-color: hsl(244, 38%, 16%);
     border-radius: 10px;
